@@ -1,0 +1,14 @@
+layout_spectrum: 0.483372
+typography_spectrum: 0.2421973
+color:
+  saturation: 0.2949136
+  lightness: 0.5397757
+  brandStrength: 0.8191935
+  rhythmicContrast: 0.1757673
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Besognes.com
